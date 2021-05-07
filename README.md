@@ -17,4 +17,4 @@ alert (`Total Time of this Playlist is ${hours}:${minutes}:${seconds}`)
 ```
 
 # Instructions.
-- Use the snippet until your whole page will be loaded.
+- Use the above snippet until your whole page will be loaded.
